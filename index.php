@@ -1,4 +1,4 @@
 <?php
 
-echo 'Hello world';
-$a = 10;
+echo 'world';
+$a = 20;
