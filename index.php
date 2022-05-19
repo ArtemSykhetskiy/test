@@ -1,8 +1,5 @@
 <?php
 
-echo 'world';
-$a = 30;
-
-function newF(int $a):int{
-    return $a;
+for($i = 0; $i < 10; $i++){
+    echo $i;
 }
