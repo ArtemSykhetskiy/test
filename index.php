@@ -1,4 +1,8 @@
 <?php
 
-$name = $_GET['name'];
-$email = $_GET['email'];
+echo 'world';
+$a = 30;
+
+function newF(int $a):int{
+    return $a;
+}
